@@ -1,5 +1,12 @@
 [This is description is from DeviantArt]
 
+<img width="1920" height="1047" alt="pb6JZJ3f90" src="https://github.com/user-attachments/assets/7e09cc80-61cb-4bab-be86-7cc4f5091ff5" />
+
+
+
+
+
+
 A simple Rainmeter binary clock that gives the desktop a clean digital look with a green glow and a subtle retro feel. The time updates in a binary style, with a flooding animation that changes every minute and adds a bit of motion without being too flashy. The date/month and system monitoring also being included as well.
 
 
