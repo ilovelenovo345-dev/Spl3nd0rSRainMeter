@@ -2,8 +2,7 @@
 
 A simple Rainmeter binary clock that gives the desktop a clean digital look with a green glow and a subtle retro feel. The time updates in a binary style, with a flooding animation that changes every minute and adds a bit of motion without being too flashy. The date/month and system monitoring also being included as well.
 
-
-Features:
+**Features**:
 
 5x5 Grid Digits.
 
